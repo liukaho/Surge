@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,doristell.com,DIRECT
 DOMAIN-SUFFIX,jihulab.com,DIRECT
 DOMAIN-SUFFIX,azure.com,DIRECT
+DOMAIN-SUFFIX,hbogoasia.tw,HBOTW
 IP-CIDR,40.81.25.157/32,DIRECT
 #https://github.com/Loyalsoldier/surge-rules
 PROCESS-NAME,v2ray,DIRECT
