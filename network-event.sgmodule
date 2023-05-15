@@ -1,0 +1,6 @@
+#!name=Network Event
+#!desc=listen network change and exec script
+#!system=mac
+
+[General]
+Network_event = type=event,event-name=network-changed,script-path=scripts/network_event.js
